@@ -1,5 +1,5 @@
 {
-  "github.com":"site-safe",
+  "github.com":"safe",
   "ublockorigin.com":"safe",
   "duckduckgo.com":"safe",
   "gogle.net":"malware",
@@ -9,5 +9,7 @@
   "dragonkingsdaughter.com":"safe",
   "example.com":"safe",
   "aahora.org":"malware",
-  "0-app.com":"malware"
+  "0-app.com":"malware",
+  "totalav.com":"malware",
+  "link1s.com":"malware"
 }
