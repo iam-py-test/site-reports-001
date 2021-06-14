@@ -7,5 +7,7 @@
   "duck.com":"DuckDuckGo",
   "duck.co":"DuckDuckGo",
   "mozilla.org":"Mozilla",
-  "microsoft.com":"Microsoft"
+  "microsoft.com":"Microsoft",
+  "github.com":"Microsoft",
+  "raw.githubusercontent.com":"Microsoft"
 }
