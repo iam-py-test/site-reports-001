@@ -15,5 +15,6 @@
   "developer.chrome.com":"safe",
   "link1s.com":"malware",
   "51.la":"malware",
-  "someonewhocares.org":"safe"
+  "someonewhocares.org":"safe",
+  "pypi.org":"safe"
 }
