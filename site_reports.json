@@ -16,5 +16,6 @@
   "link1s.com":"malware",
   "51.la":"malware",
   "someonewhocares.org":"safe",
-  "pypi.org":"safe"
+  "pypi.org":"safe",
+  "translate.google.com":"safe"
 }
