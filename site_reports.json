@@ -17,5 +17,6 @@
   "51.la":"malware",
   "someonewhocares.org":"safe",
   "pypi.org":"safe",
-  "translate.google.com":"safe"
+  "translate.google.com":"safe",
+  "virustotal.com":"safe"
 }
