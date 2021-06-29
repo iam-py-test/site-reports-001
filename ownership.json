@@ -3,6 +3,7 @@
   "accounts.google.com":"Google",
   "google.org":"Google",
   "www.google.com":"Google",
+  "www.virustotal.com":"Google",
   "translate.google.com":"Google",
   "duckduckgo.com":"DuckDuckGo",
   "duck.com":"DuckDuckGo",
@@ -11,5 +12,7 @@
   "microsoft.com":"Microsoft",
   "github.com":"Microsoft",
   "raw.githubusercontent.com":"Microsoft",
-  "account.microsoft.com":"Microsoft"
+  "account.microsoft.com":"Microsoft",
+  "www.microsoft.com":"Microsoft",
+  "malwarebytes.com":"Malwarebytes"
 }
