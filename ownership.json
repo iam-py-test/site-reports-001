@@ -67,6 +67,8 @@
   "dropboxapi.com": "Dropbox",
   "dropbox.com":"Dropbox",
   "dropboxstatic.com": "Dropbox",
+  "dropboxusercontent.com": "Dropbox",
+  "dropbox-dns.com": "Dropbox",
   "facebook.com": "Meta",
   "facebook.net": "Meta",
   "fbcdn.net": "Meta",
