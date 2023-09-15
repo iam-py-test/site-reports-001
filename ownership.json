@@ -95,6 +95,8 @@
   "cloudflare.com": "CloudFlare",
   "cloudflare.net": "CloudFlare",
   "cdnjs.cloudflare.com": "CloudFlare",
+  "cloudflareregistrar.com": "CloudFlare",
+  "pacloudflare.com": "CloudFlare",
   "twitter.com": "X Corp",
   "t.co":"X Corp",
   "twimg.com": "X Corp",
@@ -217,5 +219,6 @@
   "abcnews.com": "Disney",
   "espn.com": "Disney",
   "bolt.com": "Bolt",
-  "bolttk.com": "Bolt"
+  "bolttk.com": "Bolt",
+  "firstimpression.io": "FirstImpression"
 }
