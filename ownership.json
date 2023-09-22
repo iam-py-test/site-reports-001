@@ -113,6 +113,7 @@
   "discordapp.net": "Discord",
   "mozilla.org": "Mozilla",
   "mozgcp.net": "Mozilla",
+  "mdnplay.dev": "Mozilla",
   "apple.com": "Apple",
   "cdn-apple.com": "Apple",
   "cdn.cookielaw.org": "CookiePro",
@@ -155,7 +156,7 @@
   "skypeassets.com": "Microsoft",
   "skype.com": "Microsoft",
   "msftauth.net": "Microsoft",
-  "sharepointonline.com": "Microsoft"
+  "sharepointonline.com": "Microsoft",
   "redditmedia.com":"Reddit",
   "redditstatic.com":"Reddit",
   "reddit.com": "Reddit",
@@ -241,5 +242,14 @@
   "wistia.com": "Wistia",
   "wistia.net": "Wistia",
   "substack.com": "Substack",
-  "substackcdn.com": "Substack"
+  "substackcdn.com": "Substack",
+  "bestbuy.com": "BestBuy",
+  "bbystatic.com": "BestBuy",
+  "cheq.ai": "Cheq",
+  "ensighten.com": "Cheq",
+  "newegg.com": "NewEgg",
+  "neweggimages.com": "NewEgg",
+  "onewegg.com": "NewEgg",
+  "dell.com": "Dell",
+  "dellcdn.com": "Dell"
 }
