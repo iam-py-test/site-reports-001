@@ -16,6 +16,7 @@
   "stats.g.doubleclick.net": "Google",
   "g.doubleclick.net": "Google",
   "doubleclick.net": "Google",
+  "doubleclick.com": "Google",
   "region1.google-analytics.com": "Google",
   "googletagservices.com": "Google",
   "google-analytics.com": "Google",
@@ -251,5 +252,15 @@
   "neweggimages.com": "NewEgg",
   "onewegg.com": "NewEgg",
   "dell.com": "Dell",
-  "dellcdn.com": "Dell"
+  "dellcdn.com": "Dell",
+  "oaistatic.com": "OpenAI",
+  "openai.com": "OpenAI",
+  "squarespace-cdn.com": "Squarespace",
+  "squarespace.com": "Squarespace",
+  "squarespace.map.fastly.net": "Squarespace",
+  "prezicdn.net": "Prezi",
+  "prezi.com": "Prezi",
+  "element.io": "Matrix.org Foundation",
+  "matrix.org": "Matrix.org Foundation",
+  "vector.im": "Matrix.org Foundation"
 }
