@@ -75,6 +75,8 @@
   "fbcdn.net": "Meta",
   "whatsapp.com": "Meta",
   "whatsapp.net": "Meta",
+  "facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": "Meta",
+  "messenger.com": "Meta",
   "netflix.com": "Netflix",
   "nflxext.com": "Netflix",
   "nflximg.net": "Netflix",
@@ -262,5 +264,16 @@
   "prezi.com": "Prezi",
   "element.io": "Matrix.org Foundation",
   "matrix.org": "Matrix.org Foundation",
-  "vector.im": "Matrix.org Foundation"
+  "vector.im": "Matrix.org Foundation",
+  "aljazeera.com": "Al Jazeera",
+  "att.com": "AT&T",
+  "sogou.com": "Sogou",
+  "sogoucdn.com": "Sogou",
+  "iqiyi.com": "iQIYI",
+  "iqiyipic.com": "iQIYI",
+  "baidu.com": "Baidu",
+  "bdstatic.com": "Baidu",
+  "spotify.com": "Spotify",
+  "spotifycdn.com": "Spotify",
+  "scdn.co": "Spotify"
 }
