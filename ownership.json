@@ -7,6 +7,9 @@
   "twitchcdn.net": "Amazon",
   "cloudfront.net": "Amazon",
   "associates-amazon.com": "Amazon",
+  "media-amazon.com": "Amazon",
+  "ssl-images-amazon.com": "Amazon",
+  "amazonaws.com": "Amazon",
   "google.com":"Google",
   "accounts.google.com":"Google",
   "google.org":"Google",
@@ -385,6 +388,8 @@
   "browser-intake-datadoghq.com": "Datadog",
   "addthis.com": "Oracle",
   "oracle.com": "Oracle",
+  "moatads.com": "Oracle",
+  "moat.com": "Oracle",
   "magnite.com": "Magnite",
   "rubiconproject.com": "Magnite",
   "pangle-ads.com": "Pangle",
@@ -393,5 +398,8 @@
   "disquscdn.com": "Disqus",
   "warnermedia.com": "Warner Brothers",
   "warnermediacdn.com": "Warner Brothers",
-  "wbd.com": "Warner Brothers"
+  "wbd.com": "Warner Brothers",
+  "quantserve.com": "Quantcast",
+  "quantcount.com": "Quantcast",
+  "quantcast.com": "Quantcast"
 }
