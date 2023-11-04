@@ -126,6 +126,7 @@
   "mozilla.org": "Mozilla",
   "mozgcp.net": "Mozilla",
   "mdnplay.dev": "Mozilla",
+  "firefox.com": "Mozilla",
   "apple.com": "Apple",
   "cdn-apple.com": "Apple",
   "cdn.cookielaw.org": "CookiePro",
@@ -446,5 +447,10 @@
   "drift.com": "Drift",
   "driftt.com": "Drift",
   "smartadserver.com": "Equativ",
-  "equativ.com": "Equativ"
+  "equativ.com": "Equativ",
+  "criteo.net": "Criteo",
+  "criteo.com": "Criteo",
+  "swiftype.com": "Elastic NV",
+  "swiftypecdn.com": "Elastic NV",
+  "elastic.co": "Elastic NV"
 }
