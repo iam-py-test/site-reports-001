@@ -453,5 +453,11 @@
   "criteo.com": "Criteo",
   "swiftype.com": "Elastic NV",
   "swiftypecdn.com": "Elastic NV",
-  "elastic.co": "Elastic NV"
+  "elastic.co": "Elastic NV",
+  "akamai.net": "Akamai",
+  "akamaized.net": "Akamai",
+  "akamaized-staging.net": "Akamai",
+  "akamaihd.net": "Akamai",
+  "akamaihd-staging.net": "Akamai",
+  "akamai.com": "Akamai"
 }
