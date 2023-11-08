@@ -1,0 +1,19 @@
+{
+    "types_map": {
+        "1": "Tracker",
+        "2": "Ads",
+        "3": "Media sharing",
+        "4": "CDN",
+        "5": "Social media",
+        "6": "Cybersecurity",
+        "7": "Fitness",
+        "8": "Health",
+        "9": "File sharing"
+    }
+    "companies": {
+        "Google": {
+            "aliases": ["YouTube", "Alphabet", "FitBit", "Nest"],
+            "types": []
+        }
+    }
+}
