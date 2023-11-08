@@ -468,5 +468,8 @@
   "akamaized-staging.net": "Akamai",
   "akamaihd.net": "Akamai",
   "akamaihd-staging.net": "Akamai",
-  "akamai.com": "Akamai"
+  "akamai.com": "Akamai",
+  "shopify.com": "Shopify",
+  "shopifysvc.com": "Shopify",
+  "placeholder": ""
 }
