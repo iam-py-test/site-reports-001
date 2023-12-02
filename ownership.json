@@ -843,5 +843,7 @@
 	"platform.sh": "platform.sh",
 	"apnews.com": "The Associated Press",
 	"zhihu.com": "Zhihu",
+	"npmcdn.com": "UNPKG",
+	"unpkg.com": "UNPKG",
 	"placeholder": "Do not remove or add entries after this line"
 }
