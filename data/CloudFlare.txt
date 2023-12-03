@@ -1,0 +1,8 @@
+static.cloudflareinsights.com
+cloudflareinsights.com
+challenges.cloudflare.com
+cloudflare.com
+cloudflare.net
+cdnjs.cloudflare.com
+cloudflareregistrar.com
+pacloudflare.com

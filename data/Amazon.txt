@@ -1,0 +1,16 @@
+c.amazon-adsystem.com
+amazon-adsystem.com
+amazon.com
+amazon.dev
+twitch.tv
+twitchcdn.net
+cloudfront.net
+associates-amazon.com
+media-amazon.com
+ssl-images-amazon.com
+amazonaws.com
+a2z.com
+awsstatic.com
+aws.dev
+rfihub.com
+serving-sys.com

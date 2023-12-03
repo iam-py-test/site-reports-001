@@ -1,0 +1,3 @@
+datadoghq.com
+datadoghq-browser-agent.com
+browser-intake-datadoghq.com

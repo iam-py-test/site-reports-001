@@ -1,0 +1,3 @@
+arstechnica.com
+arstechnica-apps.s3.amazonaws.com
+arstechnica.net

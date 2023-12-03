@@ -1,0 +1,5 @@
+zendesk.org
+zndsk.com
+zdassets.com
+zen-marketing-assets.s3-us-west-2.amazonaws.com
+zendesk.com

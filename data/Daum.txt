@@ -1,0 +1,2 @@
+daum.net
+daumcdn.net

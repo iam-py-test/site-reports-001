@@ -1,0 +1,4 @@
+mozilla.org
+mozgcp.net
+mdnplay.dev
+firefox.com

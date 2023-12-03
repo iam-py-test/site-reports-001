@@ -1,0 +1,17 @@
+akamai.net
+akamaized.net
+akamaized-staging.net
+akamaihd.net
+akamaihd-staging.net
+akamai.com
+akamaitech.net
+edgesuite.net
+edgekey.net
+srip.net
+akamaitechnologies.com
+akamaitechnologies.fr
+akadns.net
+akagtm.org
+akam.net
+akamaistream.net
+akamaiedge.net
