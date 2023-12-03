@@ -71,6 +71,10 @@
 	"tiktokv.com": "Bytedance",
 	"byteoversea.com": "Bytedance",
 	"ibytedtos.com": "Bytedance",
+	"byteigtm.com": "Bytedance",
+	"bytefcdn-oversea.com": "Bytedance",
+	"byteglb.com": "Bytedance",
+	"bytescm.com": "Bytedance",
 	"cookiepro.com": "OneTrust",
 	"cookielaw.org": "OneTrust",
 	"onetrust.com": "OneTrust",
@@ -884,5 +888,8 @@
 	"vercel-dns.com": "Vercel",
 	"ethyca.com": "Ethyca",
 	"revenuehero.io": "Revenue Hero",
+	"samsungqbe.com": "Samsung",
+	"samsungacr.com": "Samsung",
+	"samsung.com": "Samsung",
 	"placeholder": "Do not remove or add entries after this line"
 }
