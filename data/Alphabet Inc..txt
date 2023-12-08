@@ -45,3 +45,4 @@ feedburner.com
 domains.google
 abc.xyz
 translate.goog
+googlehosted.com
