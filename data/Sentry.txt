@@ -1,2 +1,1 @@
 sentry-cdn.com
-sentry.io
