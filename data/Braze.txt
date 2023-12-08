@@ -1,2 +1,2 @@
-braze.com
 appboy-images.com
+braze.com
