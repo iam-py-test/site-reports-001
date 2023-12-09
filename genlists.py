@@ -8,7 +8,7 @@ for domain in domain_ownership:
     owner = domain_ownership[domain]
     if owner not in domain_owner_map:
         domain_owner_map[owner] = []
-    domain_owner_map[owner].append(domain)
+    domain_owner_map[owner].append(domain.lower())
 
 try:
     os.mkdir("data")
