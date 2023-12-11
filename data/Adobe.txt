@@ -5,3 +5,4 @@ demdex.net
 tubemogul.com
 adobedc.net
 typekit.net
+adobe.net
