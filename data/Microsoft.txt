@@ -40,3 +40,7 @@ k-msedge.net
 wac-msedge.net
 bingapis.com
 dc-msedge.net
+windows.net
+xboxlive.com
+cloud.microsoft
+svc.ms
