@@ -6,3 +6,4 @@ cloudflare.net
 cdnjs.cloudflare.com
 cloudflareregistrar.com
 pacloudflare.com
+warp.plus
