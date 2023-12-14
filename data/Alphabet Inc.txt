@@ -46,3 +46,5 @@ domains.google
 abc.xyz
 translate.goog
 googlehosted.com
+googleblog.com
+blog.google

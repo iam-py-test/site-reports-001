@@ -39,3 +39,4 @@ b-msedge.net
 k-msedge.net
 wac-msedge.net
 bingapis.com
+dc-msedge.net
