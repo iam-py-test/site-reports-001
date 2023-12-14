@@ -213,6 +213,10 @@
 	"wac-msedge.net": "Microsoft",
 	"bingapis.com": "Microsoft",
 	"dc-msedge.net": "Microsoft",
+	"windows.net": "Microsoft",
+	"xboxlive.com": "Microsoft",
+	"cloud.microsoft": "Microsoft",
+	"svc.ms": "Microsoft",
 	"redditmedia.com":"Reddit",
 	"redditstatic.com":"Reddit",
 	"reddit.com": "Reddit",
@@ -952,5 +956,8 @@
 	"nortonlifelock.com": "Gen Digital",
 	"staples.com": "Staples",
 	"staples-static.com": "Staples",
+	"azionedge.net": "Azion",
+	"azioncdn.net": "Azion",
+	"azion.com": "Azion",
 	"placeholder": "Do not remove or add entries after this line"
 }
