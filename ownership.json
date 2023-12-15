@@ -155,6 +155,7 @@
 	"mozgcp.net": "Mozilla",
 	"mdnplay.dev": "Mozilla",
 	"firefox.com": "Mozilla",
+	"mozilla.social": "Mozilla",
 	"apple.com": "Apple",
 	"cdn-apple.com": "Apple",
 	"apple-cloudkit.com": "Apple",
@@ -962,5 +963,8 @@
 	"azionedge.net": "Azion",
 	"azioncdn.net": "Azion",
 	"azion.com": "Azion",
+	"pingdom.com": "Solarwinds",
+	"solarwinds.com": "Solarwinds",
+	"loggly.com": "Solarwinds",
 	"placeholder": "Do not remove or add entries after this line"
 }

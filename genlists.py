@@ -5,6 +5,8 @@ domain_ownership = json.loads(open("ownership.json").read())
 domain_owner_map = {}
 
 for domain in domain_ownership:
+    if domain == "placeholder" or domain == "":
+        continue
     owner = domain_ownership[domain]
     if owner not in domain_owner_map:
         domain_owner_map[owner] = []
