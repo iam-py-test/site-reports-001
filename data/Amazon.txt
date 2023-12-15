@@ -14,3 +14,6 @@ awsstatic.com
 aws.dev
 rfihub.com
 serving-sys.com
+twitchadvertising.tv
+ext-twitch.tv
+twitchcon.com
