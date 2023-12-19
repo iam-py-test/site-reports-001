@@ -46,3 +46,4 @@ cloud.microsoft
 svc.ms
 spo-msedge.net
 sharepoint.com
+live.net

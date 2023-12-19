@@ -1,2 +1,5 @@
 logx.optimizely.com
 optimizely.com
+newscred.com
+welcomesoftware.com
+ocdndns.com
