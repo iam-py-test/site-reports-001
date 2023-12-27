@@ -1036,5 +1036,8 @@
 	"openwidget.com": "Text",
 	"files-text.com": "Text",
 	"knowledgebase.com": "Text",
+	"kasperskycontenthub.com": "Kaspersky",
+	"kaspersky.com": "Kaspersky",
+	"securelist.com": "Kaspersky",
 	"placeholder": "Do not remove or add entries after this line"
 }
