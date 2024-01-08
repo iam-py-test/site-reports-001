@@ -297,6 +297,8 @@
 	"quoracdn.net": "Quora",
 	"theguardian.com": "The Guardian",
 	"guim.co.uk": "The Guardian",
+	"guardianapis.com": "The Guardian",
+	"guardianapps.co.uk": "The Guardian",
 	"media-lab.ai": "MediaLab",
 	"medialab.la": "MediaLab",
 	"matomo.cloud": "Matomo",
@@ -572,6 +574,7 @@
 	"hubspotusercontent-na1.net": "HubSpot",
 	"hubspotvideo.com": "HubSpot",
 	"hubspot-forms-static-embed.s3.amazonaws.com": "HubSpot",
+	"hscta.net": "HubSpot",
 	"securedvisit.com": "Merkle",
 	"rkdms.com": "Merkle",
 	"merkle.com": "Merkle",
@@ -1044,5 +1047,8 @@
 	"kasperskycontenthub.com": "Kaspersky",
 	"kaspersky.com": "Kaspersky",
 	"securelist.com": "Kaspersky",
+	"optoutadvertising.com": "Opt Out Advertising",
+	"teads.tv": "Teads",
+	"teads.com": "Teads",
 	"placeholder": "Do not remove or add entries after this line"
 }
