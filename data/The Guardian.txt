@@ -1,2 +1,4 @@
 theguardian.com
 guim.co.uk
+guardianapis.com
+guardianapps.co.uk
