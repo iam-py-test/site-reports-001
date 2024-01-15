@@ -16,3 +16,5 @@ hubspotusercontent-na1.net
 hubspotvideo.com
 hubspot-forms-static-embed.s3.amazonaws.com
 hscta.net
+hsstatic.net
+hubspot.net
