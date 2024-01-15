@@ -8,12 +8,27 @@
         "6": "Cybersecurity",
         "7": "Fitness",
         "8": "Health",
-        "9": "File sharing"
+        "9": "File sharing",
+        "10": "Search",
+        "11": "Video streaming",
+        "12": "Website security service",
+        "13": "Blogging",
     },
     "companies": {
-        "Google": {
-            "aliases": ["YouTube", "Alphabet", "FitBit", "Nest"],
-            "types": []
+        "Alphabet Inc": {
+            "aliases": ["YouTube", "Alphabet Inc", "FitBit", "Nest", "Google"],
+            "types": {
+                "google.com": ["10"],
+                "drive.google.com": ["9"],
+                "youtube.com": ["11", "3", "5"],
+                "doubleclick.net": ["1", "2"],
+                "google-analytics.com": ["1"],
+                "googletagservices.com": ["1"],
+                "googletagmanager.com": ["1"],
+                "googlesyndication.com": ["1", "2"],
+                "googleadservices.com": ["1", "2"],
+                "fitbit.com": ["7"],
+            }
         }
     }
 }
