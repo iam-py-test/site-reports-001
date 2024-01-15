@@ -48,3 +48,4 @@ spo-msedge.net
 sharepoint.com
 live.net
 microsoftapp.net
+onmicrosoft.com
