@@ -169,6 +169,7 @@
 	"beatsbydre.com": "Apple",
 	"drive.ai": "Apple",
 	"aaplimg.com": "Apple",
+	"applemediaservices.com": "Apple",
 	"logx.optimizely.com": "Optimizely",
 	"optimizely.com": "Optimizely",
 	"newscred.com": "Optimizely",
@@ -1075,5 +1076,8 @@
 	"contentful.com": "Contentful",
 	"ctfassets.net": "Contentful",
 	"gravatar.com": "Gravatar",
+	"kasandbox.org": "Khan Academy",
+	"kastatic.org": "Khan Academy",
+	"khanacademy.org": "Khan Academy",
 	"placeholder": "Do not remove or add entries after this line"
 }
