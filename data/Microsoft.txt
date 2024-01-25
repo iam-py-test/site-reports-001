@@ -50,3 +50,4 @@ live.net
 microsoftapp.net
 onmicrosoft.com
 onedrive.com
+xandr.com
