@@ -1,3 +1,4 @@
 sentry-cdn.com
 sentry.io
 sentry.dev
+ravenjs.com

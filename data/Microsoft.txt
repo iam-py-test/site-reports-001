@@ -2,6 +2,7 @@ microsoft.com
 github.com
 githubassets.com
 githubusercontent.com
+github.dev
 account.microsoft.com
 www.microsoft.com
 login.live.com
@@ -51,3 +52,6 @@ microsoftapp.net
 onmicrosoft.com
 onedrive.com
 xandr.com
+azureedge.net
+clarity.ms
+fb-t-msedge.net
