@@ -1,3 +1,2 @@
 squarespace-cdn.com
 squarespace.com
-squarespace.map.fastly.net
