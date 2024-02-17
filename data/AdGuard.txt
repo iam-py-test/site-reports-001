@@ -2,3 +2,4 @@ adguard.com
 adguard.info
 adguard.org
 adguardvpn-help.com
+adtidy.org

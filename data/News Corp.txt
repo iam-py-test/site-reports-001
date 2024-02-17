@@ -7,6 +7,7 @@ nypost.com
 realtor.com
 news.co.uk
 dowjones.com
+dowjones.io
 theaustralian.com.au
 foxtel.com.au
 thetimes.co.uk
