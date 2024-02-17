@@ -95,6 +95,7 @@
 	"adguard.info": "AdGuard",
 	"adguard.org": "AdGuard",
 	"adguardvpn-help.com": "AdGuard",
+	"adtidy.org": "AdGuard",
 	"jwplayer.com": "JW Player",
 	"jwpcdn.com":"JW Player",
 	"jwpltx.com": "JW Player",
@@ -1142,6 +1143,7 @@
 	"realtor.com": "News Corp",
 	"news.co.uk": "News Corp",
 	"dowjones.com": "News Corp",
+	"dowjones.io": "News Corp",
 	"theaustralian.com.au": "News Corp",
 	"foxtel.com.au": "News Corp",
 	"thetimes.co.uk": "News Corp",
@@ -1152,5 +1154,12 @@
 	"barrons.com": "News Corp",
 	"storyful.com": "News Corp",
 	"historychannel.com.au": "News Corp",
+	"tildacdn.com": "Tilda",
+	"tilda.ws": "Tilda",
+	"tilda.cc": "Tilda",
+	"osano.com": "Osano",
+	"quttera.com": "Quttera",
+	"threatsign.com": "Quttera",
+	"growthbook.io": "GrowthBook",
 	"placeholder": "Do not remove or add entries after this line"
 }
