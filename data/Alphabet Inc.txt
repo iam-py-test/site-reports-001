@@ -49,3 +49,4 @@ googlehosted.com
 googleblog.com
 blog.google
 googlesource.com
+youtube-nocookie.com
