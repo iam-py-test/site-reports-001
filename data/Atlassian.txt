@@ -1,0 +1,6 @@
+atlassian.com
+atl-paas.net
+atlassian.net
+bitbucket.org
+bitbucket.io
+sourcetreeapp.com
