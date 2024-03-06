@@ -341,6 +341,11 @@
 	"githubassets.com": "Microsoft",
 	"githubusercontent.com":"Microsoft",
 	"github.dev": "Microsoft",
+	"githubapp.com": "Microsoft",
+	"githubwebhooks.net": "Microsoft",
+	"github.net": "Microsoft",
+	"npmjs.com": "Microsoft",
+	"npmjs.org": "Microsoft",
 	"account.microsoft.com":"Microsoft",
 	"www.microsoft.com":"Microsoft",
 	"login.live.com":"Microsoft",
@@ -1331,5 +1336,7 @@
 	"sourcetreeapp.com": "Atlassian",
 	"bugcrowdusercontent.com": "Bugcrowd",
 	"bugcrowd.com": "Bugcrowd",
+	"mywot.net": "MyWOT",
+	"mywot.com": "MyWOT",
 	"placeholder": "Do not remove or add entries after this line"
 }
