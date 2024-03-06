@@ -1282,6 +1282,8 @@
 	"fastly-insights.com": "Fastly",
 	"fastly.com": "Fastly",
 	"fastly.net": "Fastly",
+	"polyfill-fastly.io": "Fastly",
+	"polyfill-fastly.net": "Fastly",
 	"jsdelivr.com": "jsDelivr",
 	"jsdelivr.net": "jsDelivr",
 	"aeon.co": "Aeon Media Group",
@@ -1338,5 +1340,7 @@
 	"bugcrowd.com": "Bugcrowd",
 	"mywot.net": "MyWOT",
 	"mywot.com": "MyWOT",
+	"gr-assets.com": "Goodreads",
+	"goodreads.com": "Goodreads",
 	"placeholder": "Do not remove or add entries after this line"
 }
