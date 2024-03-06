@@ -3,6 +3,11 @@ github.com
 githubassets.com
 githubusercontent.com
 github.dev
+githubapp.com
+githubwebhooks.net
+github.net
+npmjs.com
+npmjs.org
 account.microsoft.com
 www.microsoft.com
 login.live.com
