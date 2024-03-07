@@ -10,3 +10,4 @@ warp.plus
 cloudflarebolt.com
 cloudflarestream.com
 cloudflaressl.com
+cloudflare-ipfs.com
