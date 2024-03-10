@@ -1,0 +1,2 @@
+wpcdn.pl
+wp.pl
