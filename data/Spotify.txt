@@ -2,3 +2,4 @@ spotify.com
 spotifycdn.com
 scdn.co
 byspotify.com
+megaphone.fm
