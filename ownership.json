@@ -594,6 +594,7 @@
 	"spotifycdn.com": "Spotify",
 	"scdn.co": "Spotify",
 	"byspotify.com": "Spotify",
+	"megaphone.fm": "Spotify",
 	"getgx.net": "Opera",
 	"opera.com": "Opera",
 	"operacdn.com": "Opera",
@@ -1358,5 +1359,7 @@
 	"valvesoftware.com": "Valve Corporation",
 	"steamcommunity.com": "Valve Corporation",
 	"steampowered.com": "Valve Corporation",
+	"podigee-cdn.net": "Podigee",
+	"podigee.com": "Podigee",
 	"placeholder": "Do not remove or add entries after this line"
 }
