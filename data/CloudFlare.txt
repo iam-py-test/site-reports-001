@@ -11,3 +11,5 @@ cloudflarebolt.com
 cloudflarestream.com
 cloudflaressl.com
 cloudflare-ipfs.com
+cloudflareclient.com
+cloudflareresolve.com
