@@ -63,3 +63,4 @@ fb-t-msedge.net
 aspnetcdn.com
 mscr.io
 hotmail.com
+static.microsoft
