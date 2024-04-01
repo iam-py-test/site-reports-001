@@ -3,3 +3,4 @@ fastly.com
 fastly.net
 polyfill-fastly.io
 polyfill-fastly.net
+fastlylb.net
