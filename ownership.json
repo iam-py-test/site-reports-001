@@ -1420,5 +1420,10 @@
 	"tesla.services": "Tesla",
 	"teslainsuranceservices.com": "Tesla",
 	"solarcity.com": "Tesla",
+	"hetzner.com": "Hetzner",
+	"hetzner.cloud": "Hetzner",
+	"your-storageshare.de": "Hetzner",
+	"your-storagebox.de": "Hetzner",
+	"hetzner.de": "Hetzner",
 	"placeholder": "Do not remove or add entries after this line"
 }
