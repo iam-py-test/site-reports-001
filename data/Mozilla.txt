@@ -3,3 +3,4 @@ mozgcp.net
 mdnplay.dev
 firefox.com
 mozilla.social
+bugzil.la
