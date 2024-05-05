@@ -1,3 +1,5 @@
 intercom.com
 intercomcdn.com
 intercom.io
+intercomassets.com
+intercom.help
