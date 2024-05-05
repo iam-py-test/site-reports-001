@@ -1232,6 +1232,8 @@
 	"intercom.com": "Intercom",
 	"intercomcdn.com": "Intercom",
 	"intercom.io": "Intercom",
+	"intercomassets.com": "Intercom",
+	"intercom.help": "Intercom",
 	"s81c.com": "International Business Machines Corporation",
 	"ibm.com": "International Business Machines Corporation",
 	"securityintelligence.com": "International Business Machines Corporation",
@@ -1430,5 +1432,9 @@
 	"beyondidentity.com": "Beyond Identity",
 	"garmin.com": "Garmin",
 	"garmincdn.com": "Garmin",
+	"getnitropack.com": "NitroPack",
+	"nitropack.io": "NitroPack",
+	"nitrocdn.com": "NitroPack",
+	"nitroscripts.com": "NitroPack",
 	"placeholder": "Do not remove or add entries after this line"
 }
