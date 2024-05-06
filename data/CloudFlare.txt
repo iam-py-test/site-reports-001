@@ -13,3 +13,4 @@ cloudflaressl.com
 cloudflare-ipfs.com
 cloudflareclient.com
 cloudflareresolve.com
+cf-ipfs.com
