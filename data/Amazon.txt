@@ -18,3 +18,5 @@ twitchadvertising.tv
 ext-twitch.tv
 twitchcon.com
 chime.aws
+acsechocaptiveportal.com
+fireoscaptiveportal.com
