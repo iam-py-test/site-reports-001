@@ -1324,6 +1324,7 @@
 	"filestack.com": "Filestack",
 	"filepicker.io": "Filestack",
 	"zoom.us": "Zoom",
+	"zoom.com": "Zoom",
 	"bizzabo.com": "Bizzabo",
 	"cloudinary.com": "Cloudinary",
 	"crazyeggcdn.com": "Crazy Egg",
@@ -1439,5 +1440,8 @@
 	"nitropack.io": "NitroPack",
 	"nitrocdn.com": "NitroPack",
 	"nitroscripts.com": "NitroPack",
+	"heliohost.org": "HelioHost",
+	"heliohost.us": "HelioHost",
+	"helioho.st": "HelioHost",
 	"placeholder": "Do not remove or add entries after this line"
 }
