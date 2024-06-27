@@ -1,3 +1,16 @@
 slack-edge.com
 slack-imgs.com
 slack.com
+mulesoft.com
+salesforceliveagent.com
+salesforce.com
+herokucdn.com
+heroku.com
+herokuspace.com
+sfdcdigital.com
+sfdcstatic.com
+force.com
+tableau.com
+quip.com
+quip-cdn.com
+quip-marketing.com
