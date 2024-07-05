@@ -4,3 +4,7 @@ fastly.net
 polyfill-fastly.io
 polyfill-fastly.net
 fastlylb.net
+glitch.me
+glitch.new
+glitch.global
+glitch.com
