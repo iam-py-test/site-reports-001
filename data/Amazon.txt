@@ -20,3 +20,4 @@ twitchcon.com
 chime.aws
 acsechocaptiveportal.com
 fireoscaptiveportal.com
+skillbuilder.aws
