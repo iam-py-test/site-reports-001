@@ -2,3 +2,6 @@ addthis.com
 oracle.com
 moatads.com
 moat.com
+oraclecloud.net
+en25.com
+eloqua.com
