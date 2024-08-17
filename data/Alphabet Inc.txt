@@ -210,3 +210,4 @@ waymo.com
 appspot.com
 blogspot.com
 chromium.org
+firebaseapp.com
