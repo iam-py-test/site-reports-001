@@ -3,3 +3,4 @@ bbc.com
 bbc.co.uk
 bbcverticals.com
 bbcx-internal.com
+bbc-reporting-api.app
