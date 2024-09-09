@@ -21,3 +21,4 @@ chime.aws
 acsechocaptiveportal.com
 fireoscaptiveportal.com
 skillbuilder.aws
+amazon.jobs
