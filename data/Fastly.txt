@@ -9,3 +9,4 @@ glitch.new
 glitch.global
 glitch.com
 fastly-edge.com
+fastlylabs.com
