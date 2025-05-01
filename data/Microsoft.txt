@@ -64,3 +64,4 @@ aspnetcdn.com
 mscr.io
 hotmail.com
 static.microsoft
+microsoft.design
