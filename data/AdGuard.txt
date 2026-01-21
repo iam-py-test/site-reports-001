@@ -6,3 +6,4 @@ adtidy.org
 agrd.eu
 adguard-vpn.cc
 agrdvpn-tm.com
+trusttunnel.org
