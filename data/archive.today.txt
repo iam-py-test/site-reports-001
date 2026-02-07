@@ -5,3 +5,5 @@ archive.li
 archive.md
 archive.ph
 archive.vn
+archive-is.tumblr.com
+btdig.com
