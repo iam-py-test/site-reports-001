@@ -1,2 +1,7 @@
 archive.is
 archive.today
+archive.fo
+archive.li
+archive.md
+archive.ph
+archive.vn
