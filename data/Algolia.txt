@@ -1,0 +1,2 @@
+algolia.com
+algolia.net
